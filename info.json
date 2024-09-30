@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "ZFC123456": {
+   "password": "$2y$12$ahxfYTI1uZy3hVCJ445Ivepknp.nf7PYvFhTqJJJ6YDlB/vJ352ay",
+   "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
+   "expiry": "31-10-2024 12:00 PM"
+},
 }
