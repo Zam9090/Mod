@@ -9,4 +9,9 @@
    "devices": ["REDMINOTE9PRO4C097BE57F979E83"],
    "expiry": "31-10-2024 12:00 PM"
 },
+   "kalea": {
+   "password": "$2y$12$QaWSwOtGA.Pn2dOveO2etefABfvuyuv4WW/6BHu.Bxz9tdTEOBd.i",
+   "devices": ["CPH180399950238"],
+   "expiry": "30-11-2024 12:00 PM"
+},
 }
