@@ -14,4 +14,9 @@
    "devices": ["CPH180399950238"],
    "expiry": "30-11-2024 12:00 PM"
 },
+  "andrewtea": {
+   "password": "$2y$12$e9g7sigslRYVdRYATPMnOucSuYT.2sKwn/BXYPaeZ/uWXxGl3dU3m",
+   "devices": ["23021RAA2Y76CBB3D8B7A970DA"],
+   "expiry": "30-11-2024 12:00 PM"
+},
 }
